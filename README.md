@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hola! 👋
 
 - 🔭 Actualmente estoy trabajando en una aplicación de calendario y tareas. 
 - 🌱 Actualmente estoy aprendiendo: React.
 - 🥅 Mis metas para este 2023 son: Poder lograr un compromiso laboral a largo plazo donde además de poder poner en practica mis conocimientos se me permita seguir aprendiendo.
 
-
-
-
 - 📫 Cómo contactarme:
+[![Gmail Badge](https://img.shields.io/badge/-saluylib@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saluylib@gmail.com "Via Email")
+[![Telegram Badge](https://img.shields.io/badge/-@Santiparra-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Santiparra91 "En Telegram")
+
 
 ### Lenguajes y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,webpack)](https://skillicons.dev)
@@ -16,7 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiparra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- ⚡ Sobre mí: 
+- ⚡ Sobre mí: Soy de Montevideo, Uruguay. Tengo 31años. Actualmente en busqueda de empleo. Disfruto leyendo y aprendiendo, especialmente con lo relacionado con la tecnología. 15 años de experiencia con sistemas GNU/Linux, especialmente afluente en la rama ArchLinux.
 <!--
 **Santiparra/Santiparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
