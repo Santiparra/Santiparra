@@ -4,7 +4,8 @@
 - 🌱 Actualmente estoy aprendiendo: React.
 - 🥅 Mis metas para este 2023 son: Poder lograr un compromiso laboral a largo plazo donde además de poder poner en practica mis conocimientos se me permita seguir aprendiendo.
 
-- 📫 Cómo contactarme:
+### 📫 Cómo contactarme:
+
 [![Gmail Badge](https://img.shields.io/badge/-saluylib@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saluylib@gmail.com "Via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@Santiparra-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Santiparra91 "En Telegram")
 
