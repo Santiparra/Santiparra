@@ -6,7 +6,7 @@
 
 ### 📫 Cómo contactarme:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Santi%20Parra-0072b1?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/santiago-iparraguirre/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Santi%20Parra-0072b1?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/santiago-iparraguirre "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-saluylib@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saluylib@gmail.com "Via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@Santiparra-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Santiparra91 "En Telegram")
 
