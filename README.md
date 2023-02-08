@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-- 🔭 Actualmente estoy trabajando en una aplicación de calendario y tareas. 
+- 🔭 Actualmente estoy trabajando en un widget de prediccion de clima mediante Api. 
 - 🌱 Actualmente estoy aprendiendo: React.
 - 🥅 Mis metas para este 2023 son: Poder lograr un compromiso laboral a largo plazo donde además de poder poner en practica mis conocimientos se me permita seguir aprendiendo.
 
