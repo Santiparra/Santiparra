@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-- 🔭 Actualmente estoy trabajando en crear una aplicacion del juego Batalla naval implementando TDD y algoritmos recursivos. 
+- 🔭 Actualmente estoy trabajando en crear una aplicacion en React para crear Curriculums. 
 - 🌱 Actualmente estoy aprendiendo: React.
 - 🥅 Mis metas para este 2023 son: Poder lograr un compromiso laboral a largo plazo donde además de poder poner en practica mis conocimientos se me permita seguir aprendiendo.
 
