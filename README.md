@@ -12,7 +12,7 @@
 
 
 ### Lenguajes y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=js,jest,html,css,sass,bootstrap,git,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,ts,angular,nestjs,react,nextjs,js,jest,css,sass)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiparra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiparra)](https://github.com/anuraghazra/github-readme-stats)
