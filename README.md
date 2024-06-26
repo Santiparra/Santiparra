@@ -1,7 +1,7 @@
 ### Hola! 👋
 
 - 🔭 Actualmente estoy trabajando como desarrollador en una aplicacion de gestion deportiva con el stack Next, Node(Express) y PostgreSql. 
-- 🌱 Actualmente estoy aprendiendo: Ruby on Rails.
+- 🌱 Como side proyect estoy trabajando en una demo de como implementar Microservicios en Nest con tecnologias como: NATS, Google Cloud con CI/CD, Webhooks, Gateways, Kubernetes, etc.
 - 🥅 Mis metas para este 2024 son: Poder lograr un compromiso laboral a largo plazo donde además de poder poner en practica mis conocimientos se me permita seguir aprendiendo.
 
 ### 📫 Cómo contactarme:
