@@ -1,8 +1,8 @@
 ### Hola! 👋
 
-- 🔭 Actualmente estoy trabajando en crear una aplicacion en React para crear Curriculums. 
-- 🌱 Actualmente estoy aprendiendo: React.
-- 🥅 Mis metas para este 2023 son: Poder lograr un compromiso laboral a largo plazo donde además de poder poner en practica mis conocimientos se me permita seguir aprendiendo.
+- 🔭 Actualmente estoy trabajando como desarrollador en una aplicacion de gestion deportiva con el stack Next, Node(Express) y PostgreSql. 
+- 🌱 Actualmente estoy aprendiendo: Ruby on Rails.
+- 🥅 Mis metas para este 2024 son: Poder lograr un compromiso laboral a largo plazo donde además de poder poner en practica mis conocimientos se me permita seguir aprendiendo.
 
 ### 📫 Cómo contactarme:
 
@@ -18,7 +18,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiparra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- ⚡ Sobre mí: Soy de Montevideo, Uruguay. Tengo 31años. Actualmente en busqueda de empleo. Disfruto leyendo y aprendiendo, especialmente con lo relacionado con la tecnología. 15 años de experiencia con sistemas GNU/Linux, especialmente afluente en la rama ArchLinux.
+- ⚡ Sobre mí: Soy de Montevideo, Uruguay. Tengo 33años. Actualmente en busqueda de empleo. Disfruto leyendo y aprendiendo, especialmente con lo relacionado con la tecnología. 15 años de experiencia con sistemas GNU/Linux, especialmente afluente en la rama ArchLinux.
 <!--
 **Santiparra/Santiparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
