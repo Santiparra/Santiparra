@@ -14,7 +14,7 @@
 ### Lenguajes y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=arch,ts,angular,nestjs,react,nextjs,nodejs,express,js,jest,css,sass)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiparra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-git-master-santiago-iparraguirres-projects.vercel.app/api?username=Santiparra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiparra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - ⚡ Sobre mí: Soy de Montevideo, Uruguay. Tengo 33años. Actualmente en busqueda de empleo. Disfruto leyendo y aprendiendo, especialmente con lo relacionado con la tecnología. 15 años de experiencia con sistemas GNU/Linux, especialmente afluente en la rama ArchLinux.
