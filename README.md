@@ -13,8 +13,7 @@
 
 ### Lenguajes y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=arch,ts,angular,nestjs,react,nextjs,nodejs,express,js,jest,css,sass)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats-git-master-santiago-iparraguirres-projects.vercel.app/api/top-langs/?username=Santiparra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiparra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats-git-master-santiago-iparraguirres-projects.vercel.app/api?username=Santiparra)](https://github.com/anuraghazra/github-readme-stats)
 
 
