@@ -12,7 +12,7 @@
 
 
 ### Lenguajes y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,angular,nestjs,react,nextjs,nodejs,express,jest,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,nodejs,express,nestjs,angular,nextjs,react,jest,css,html)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiparra&size_weight=1&count_weight=0&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiparra)](https://github.com/anuraghazra/github-readme-stats)
 
