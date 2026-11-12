@@ -14,7 +14,6 @@
 ### Lenguajes y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,nodejs,express,nestjs,angular,nextjs,react,jest,css,html)](https://skillicons.dev)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Santiparra&langs_count=5&theme=transparent&hide=css,html)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=transparent)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Santiparra)](https://github.com/stats-organization/github-stats-extended)
 
 - ⚡ Sobre mí: Soy de Montevideo, Uruguay. Tengo 35años. Actualmente en busqueda de empleo. Disfruto leyendo y aprendiendo, especialmente con lo relacionado con la tecnología. 15 años de experiencia con sistemas GNU/Linux, especialmente afluente en la rama ArchLinux.
 <!--
